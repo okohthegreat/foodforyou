@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="825" viewBox="0 0 1440 825">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffe001;
+      }
+
+      .cls-2 {
+        fill: #ebe9ac;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="Design">
+    <rect id="Rectangle" class="cls-1" width="1440" height="825"/>
+    <path id="Rectangle-2" data-name="Rectangle" class="cls-2" d="M1051.5-10H1507V825H885.5Z"/>
+  </g>
+</svg>
